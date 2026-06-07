@@ -11,7 +11,7 @@ tests, and an interactive Streamlit dashboard.
 
 | Model | Feature availability | MAE | MSE | R2 |
 |---|---|---:|---:|---:|
-| Mean baseline | None | 0.760 | 0.897 | -0.001 |
+| Mean baseline | No features (average prediction) | 0.760 | 0.897 | -0.001 |
 | Budget + runtime | Pre-release | 0.677 | 0.708 | 0.210 |
 | Engineered pre-release | Pre-release | 0.630 | 0.629 | 0.298 |
 | Post-release signals | Post-release | 0.512 | 0.463 | 0.484 |
