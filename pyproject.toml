@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cine-score-ml"
+version = "1.0.0"
+description = "IMDb rating modeling from TMDB metadata and OMDb labels"
+requires-python = ">=3.11"
+
+[tool.setuptools.packages.find]
+where = ["src"]

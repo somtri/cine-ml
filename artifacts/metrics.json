@@ -1,0 +1,29 @@
+{
+  "dataset_rows": 491,
+  "train_rows": 392,
+  "test_rows": 99,
+  "baseline": {
+    "name": "Mean baseline",
+    "stage": "basic",
+    "mae": 0.7596964543393115,
+    "mse": 0.8972399356696914,
+    "r2": -0.0011006843551299994
+  },
+  "champion": {
+    "name": "Tuned audience-signal model",
+    "stage": "audience_signal",
+    "mae": 0.2390600233750441,
+    "mse": 0.14807764315646782,
+    "r2": 0.8347815071439177
+  },
+  "mae_improvement_pct": 68.53216544455924,
+  "best_params": {
+    "model__max_depth": 12,
+    "model__max_features": 0.7,
+    "model__min_samples_leaf": 3,
+    "model__n_estimators": 300
+  },
+  "random_state": 42,
+  "target": "IMDb rating",
+  "important_note": "The champion is a post-release model and includes TMDB vote_average. The pre-release model is reported separately to avoid target-proxy confusion."
+}

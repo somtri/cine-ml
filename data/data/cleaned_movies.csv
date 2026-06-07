@@ -1,0 +1,492 @@
+title,budget,runtime,imdb_rating
+Avatar,237000000,162.0,7.9
+Pirates of the Caribbean: At World's End,300000000,169.0,7.1
+Spectre,245000000,148.0,6.8
+The Dark Knight Rises,250000000,165.0,8.4
+John Carter,260000000,132.0,6.6
+Spider-Man 3,258000000,139.0,6.3
+Tangled,260000000,100.0,7.7
+Avengers: Age of Ultron,280000000,141.0,7.3
+Harry Potter and the Half-Blood Prince,250000000,153.0,7.6
+Batman v Superman: Dawn of Justice,250000000,151.0,6.5
+Superman Returns,270000000,154.0,6.1
+Quantum of Solace,200000000,106.0,6.5
+Pirates of the Caribbean: Dead Man's Chest,200000000,151.0,7.4
+The Lone Ranger,255000000,149.0,6.4
+Man of Steel,225000000,143.0,7.1
+The Chronicles of Narnia: Prince Caspian,225000000,150.0,6.5
+The Avengers,220000000,143.0,8.0
+Pirates of the Caribbean: On Stranger Tides,380000000,136.0,6.6
+Men in Black 3,225000000,106.0,7.9
+The Hobbit: The Battle of the Five Armies,250000000,144.0,7.4
+The Amazing Spider-Man,215000000,136.0,6.9
+Robin Hood,200000000,140.0,6.6
+The Hobbit: The Desolation of Smaug,250000000,161.0,7.8
+The Golden Compass,180000000,113.0,6.1
+King Kong,207000000,187.0,7.2
+Titanic,200000000,194.0,7.9
+Captain America: Civil War,250000000,147.0,7.8
+Battleship,209000000,131.0,5.8
+Jurassic World,150000000,124.0,6.9
+Skyfall,200000000,143.0,7.8
+Spider-Man 2,200000000,127.0,7.5
+Iron Man 3,200000000,130.0,7.1
+Alice in Wonderland,200000000,108.0,6.4
+X-Men: The Last Stand,210000000,104.0,6.6
+Monsters University,200000000,104.0,7.2
+Transformers: Revenge of the Fallen,150000000,150.0,6.0
+Transformers: Age of Extinction,210000000,165.0,5.6
+Oz: The Great and Powerful,200000000,130.0,6.3
+The Amazing Spider-Man 2,200000000,142.0,6.6
+TRON: Legacy,170000000,125.0,6.8
+Cars 2,200000000,106.0,6.2
+Green Lantern,200000000,114.0,5.5
+Toy Story 3,200000000,103.0,8.3
+Terminator Salvation,200000000,115.0,6.5
+Furious 7,190000000,137.0,7.1
+World War Z,200000000,116.0,7.0
+X-Men: Days of Future Past,250000000,131.0,7.9
+Star Trek Into Darkness,190000000,132.0,7.7
+Jack the Giant Slayer,195000000,114.0,6.3
+The Great Gatsby,105000000,143.0,7.2
+Prince of Persia: The Sands of Time,150000000,116.0,6.5
+Pacific Rim,180000000,131.0,6.9
+Transformers: Dark of the Moon,195000000,154.0,6.2
+Indiana Jones and the Kingdom of the Crystal Skull,185000000,122.0,6.2
+The Good Dinosaur,175000000,93.0,6.7
+Brave,185000000,93.0,7.1
+Star Trek Beyond,185000000,122.0,7.0
+WALL·E,180000000,98.0,8.4
+Rush Hour 3,140000000,91.0,6.2
+2012,200000000,158.0,5.8
+A Christmas Carol,200000000,96.0,6.8
+Jupiter Ascending,176000003,124.0,5.3
+The Legend of Tarzan,180000000,109.0,6.2
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",180000000,143.0,6.9
+X-Men: Apocalypse,178000000,144.0,6.8
+The Dark Knight,185000000,152.0,9.0
+Up,175000000,96.0,8.3
+Monsters vs Aliens,175000000,94.0,6.3
+Iron Man,140000000,126.0,7.9
+Hugo,170000000,126.0,7.5
+Wild Wild West,170000000,106.0,4.9
+The Mummy: Tomb of the Dragon Emperor,145000000,112.0,5.2
+Suicide Squad,175000000,123.0,5.9
+Evan Almighty,175000000,96.0,5.4
+Edge of Tomorrow,178000000,113.0,7.9
+Waterworld,175000000,135.0,6.3
+G.I. Joe: The Rise of Cobra,175000000,118.0,5.7
+Inside Out,175000000,94.0,8.1
+The Jungle Book,175000000,106.0,7.3
+Iron Man 2,200000000,124.0,6.9
+Snow White and the Huntsman,170000000,127.0,6.1
+Maleficent,180000000,97.0,6.9
+Dawn of the Planet of the Apes,170000000,130.0,7.6
+The Lovers,27000000,109.0,7.2
+47 Ronin,175000000,119.0,6.2
+Captain America: The Winter Soldier,170000000,136.0,7.7
+Shrek Forever After,165000000,93.0,6.3
+Tomorrowland,190000000,130.0,6.4
+Big Hero 6,165000000,102.0,7.8
+Wreck-It Ralph,165000000,108.0,7.7
+The Polar Express,165000000,100.0,6.6
+Independence Day: Resurgence,165000000,120.0,5.2
+How to Train Your Dragon,165000000,98.0,8.1
+Terminator 3: Rise of the Machines,200000000,109.0,6.3
+Guardians of the Galaxy,170000000,121.0,8.0
+Interstellar,165000000,169.0,8.7
+Inception,160000000,148.0,8.8
+Shin Godzilla,15000000,120.0,6.8
+The Hobbit: An Unexpected Journey,250000000,169.0,7.8
+The Fast and the Furious,38000000,106.0,6.8
+The Curious Case of Benjamin Button,150000000,166.0,7.8
+X-Men: First Class,160000000,132.0,7.7
+The Hunger Games: Mockingjay - Part 2,160000000,137.0,6.6
+The Sorcerer's Apprentice,150000000,109.0,6.1
+Poseidon,160000000,99.0,5.7
+Alice Through the Looking Glass,170000000,113.0,6.2
+Shrek the Third,160000000,93.0,6.1
+Warcraft,160000000,123.0,6.7
+Terminator Genisys,155000000,126.0,6.3
+The Chronicles of Narnia: The Voyage of the Dawn Treader,155000000,113.0,6.3
+Pearl Harbor,140000000,183.0,6.2
+Transformers,150000000,144.0,7.1
+Alexander,155000000,175.0,5.6
+Harry Potter and the Order of the Phoenix,150000000,138.0,7.5
+Harry Potter and the Goblet of Fire,150000000,157.0,7.7
+Hancock,150000000,92.0,6.4
+I Am Legend,150000000,101.0,7.2
+Charlie and the Chocolate Factory,150000000,115.0,6.7
+Ratatouille,150000000,111.0,8.1
+Batman Begins,150000000,140.0,8.2
+Madagascar: Escape 2 Africa,150000000,89.0,6.6
+Night at the Museum: Battle of the Smithsonian,150000000,105.0,6.0
+X-Men Origins: Wolverine,150000000,107.0,6.5
+The Matrix Revolutions,150000000,129.0,6.7
+Frozen,150000000,102.0,7.4
+The Matrix Reloaded,150000000,138.0,7.2
+Thor: The Dark World,170000000,112.0,6.7
+Mad Max: Fury Road,150000000,120.0,8.1
+Angels & Demons,150000000,138.0,6.7
+Thor,150000000,115.0,7.0
+Bolt,150000000,98.0,6.8
+G-Force,150000000,88.0,5.1
+Wrath of the Titans,150000000,99.0,5.7
+Dark Shadows,150000000,113.0,6.2
+Mission: Impossible - Rogue Nation,150000000,131.0,7.4
+The Wolfman,150000000,102.0,5.8
+Bee Movie,150000000,91.0,6.1
+Kung Fu Panda 2,150000000,91.0,7.3
+The Last Airbender,150000000,103.0,4.0
+Mission: Impossible III,150000000,126.0,6.9
+White House Down,150000000,131.0,6.3
+Mars Needs Moms,150000000,88.0,5.4
+Flushed Away,149000000,85.0,6.6
+Pan,150000000,111.0,5.7
+Mr. Peabody & Sherman,145000000,92.0,6.7
+Troy,175000000,163.0,7.3
+Madagascar 3: Europe's Most Wanted,145000000,93.0,6.8
+Die Another Day,140000000,133.0,6.1
+Ghostbusters,144000000,116.0,7.8
+Armageddon,140000000,151.0,6.7
+Men in Black II,140000000,88.0,6.2
+Beowulf,70000000,115.0,6.3
+Kung Fu Panda 3,145000000,95.0,7.1
+Mission: Impossible - Ghost Protocol,145000000,133.0,7.4
+Rise of the Guardians,145000000,97.0,7.2
+Fun with Dick and Jane,100000000,90.0,6.2
+The Last Samurai,140000000,154.0,7.8
+Exodus: Gods and Kings,140000000,150.0,6.0
+Star Trek,150000000,127.0,7.9
+Spider-Man,139000000,121.0,7.4
+How to Train Your Dragon 2,145000000,102.0,7.8
+Gods of Egypt,140000000,127.0,5.4
+Stealth,135000000,121.0,5.1
+Watchmen,130000000,163.0,7.6
+Lethal Weapon 4,140000000,127.0,6.6
+Hulk,137000000,138.0,5.6
+G.I. Joe: Retaliation,130000000,110.0,5.7
+Sahara,130000000,124.0,6.1
+Final Fantasy: The Spirits Within,137000000,106.0,6.4
+Captain America: The First Avenger,140000000,124.0,6.9
+The World Is Not Enough,135000000,128.0,6.4
+Master and Commander: The Far Side of the World,150000000,138.0,7.5
+The Twilight Saga: Breaking Dawn - Part 2,120000000,115.0,5.6
+Happy Feet Two,130000000,100.0,5.8
+The Incredible Hulk,150000000,114.0,6.6
+The BFG,140000000,120.0,6.3
+The Revenant,135000000,156.0,8.0
+Turbo,135000000,96.0,6.4
+Rango,135000000,107.0,7.3
+Penguins of Madagascar,132000000,92.0,6.6
+The Bourne Ultimatum,70000000,115.0,8.0
+Kung Fu Panda,130000000,90.0,7.6
+Ant-Man,130000000,117.0,7.2
+The Hunger Games: Catching Fire,130000000,146.0,7.5
+Home,135000000,94.0,6.5
+War of the Worlds,132000000,116.0,6.5
+Bad Boys II,130000000,147.0,6.6
+Puss in Boots,130000000,90.0,6.6
+Salt,110000000,100.0,6.5
+Noah,125000000,139.0,5.8
+The Adventures of Tintin,130000000,107.0,7.3
+Harry Potter and the Prisoner of Azkaban,130000000,141.0,7.9
+Australia,130000000,165.0,6.6
+After Earth,130000000,100.0,4.8
+Dinosaur,127500000,82.0,6.4
+Night at the Museum: Secret of the Tomb,127000000,97.0,6.2
+Megamind,130000000,95.0,7.3
+R.I.P.D.,130000000,96.0,5.6
+Pirates of the Caribbean: The Curse of the Black Pearl,140000000,143.0,8.1
+The Hunger Games: Mockingjay - Part 1,125000000,123.0,6.6
+The Da Vinci Code,125000000,149.0,6.6
+Rio 2,103000000,102.0,6.3
+Fast Five,125000000,130.0,7.3
+Sherlock Holmes: A Game of Shadows,125000000,129.0,7.4
+Clash of the Titans,125000000,106.0,5.8
+Total Recall,65000000,113.0,7.5
+The 13th Warrior,160000000,102.0,6.6
+The Bourne Legacy,130000000,120.0,6.6
+Batman & Robin,125000000,125.0,7.5
+How the Grinch Stole Christmas,123000000,104.0,6.4
+The Day After Tomorrow,125000000,124.0,6.5
+Mission: Impossible II,125000000,123.0,6.1
+The Perfect Storm,120000000,130.0,6.5
+Life of Pi,120000000,127.0,7.9
+Ghost Rider,110000000,114.0,5.3
+Jason Bourne,120000000,123.0,6.6
+Charlie's Angels: Full Throttle,120000000,106.0,4.9
+Prometheus,130000000,124.0,7.0
+Stuart Little 2,120000000,78.0,5.5
+Elysium,115000000,109.0,6.6
+The Chronicles of Riddick,105000000,119.0,6.6
+RoboCop,120000000,102.0,7.6
+Speed Racer,120000000,135.0,6.1
+How Do You Know,120000000,121.0,5.4
+Knight and Day,117000000,109.0,6.3
+Oblivion,120000000,124.0,7.0
+Star Wars: Episode III - Revenge of the Sith,113000000,140.0,7.6
+Star Wars: Episode II - Attack of the Clones,120000000,142.0,6.6
+"Monsters, Inc.",115000000,92.0,8.1
+The Wolverine,120000000,126.0,6.7
+Star Wars: Episode I - The Phantom Menace,115000000,136.0,6.5
+The Croods,135000000,98.0,7.1
+Asterix at the Olympic Games,97250400,116.0,5.2
+Windtalkers,115000000,134.0,6.1
+The Huntsman: Winter's War,115000000,114.0,6.1
+Teenage Mutant Ninja Turtles,125000000,101.0,5.8
+Gravity,105000000,91.0,7.7
+Dante's Peak,116000000,108.0,6.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,135000000,112.0,5.9
+Fantastic Four,120000000,100.0,5.7
+Night at the Museum,110000000,108.0,6.5
+San Andreas,110000000,114.0,6.1
+Tomorrow Never Dies,110000000,119.0,6.5
+The Patriot,110000000,165.0,7.2
+Ocean's Twelve,110000000,125.0,6.5
+Mr. & Mrs. Smith,110000000,120.0,6.5
+The Aviator,116000000,170.0,7.5
+Gulliver's Travels,112000000,85.0,4.9
+The Green Hornet,120000000,119.0,5.8
+300: Rise of an Empire,110000000,102.0,6.2
+The Smurfs,110000000,103.0,5.4
+Home on the Range,110000000,76.0,5.4
+Allegiant,110000000,121.0,5.7
+Real Steel,110000000,127.0,7.1
+The Smurfs 2,105000000,105.0,5.3
+Speed 2: Cruise Control,160000000,121.0,4.0
+Ender's Game,110000000,114.0,6.6
+Live Free or Die Hard,110000000,128.0,7.1
+The Lord of the Rings: The Fellowship of the Ring,93000000,178.0,8.9
+Around the World in 80 Days,110000000,120.0,5.9
+Ali,107000000,157.0,6.7
+"I, Robot",120000000,115.0,7.1
+Kingdom of Heaven,130000000,144.0,7.3
+Stuart Little,133000000,84.0,6.0
+The Princess and the Frog,105000000,97.0,7.2
+The Martian,108000000,141.0,8.0
+The Island,126000000,136.0,6.8
+Town & Country,90000000,104.0,5.6
+Gladiator,103000000,155.0,8.5
+Minority Report,102000000,145.0,7.6
+Harry Potter and the Chamber of Secrets,100000000,161.0,7.4
+Casino Royale,150000000,144.0,8.0
+Planet of the Apes,100000000,119.0,5.7
+Terminator 2: Judgment Day,100000000,137.0,8.6
+Public Enemies,80000000,140.0,6.9
+American Gangster,100000000,157.0,7.8
+True Lies,115000000,141.0,7.3
+Little Fockers,100000000,98.0,5.5
+The Other Guys,100000000,107.0,6.7
+Eraser,100000000,115.0,6.2
+Django Unchained,100000000,165.0,8.5
+The Hunchback of Notre Dame,100000000,91.0,7.0
+The Emperor's New Groove,100000000,78.0,7.4
+The Expendables 2,100000000,103.0,6.6
+National Treasure,100000000,131.0,6.9
+Eragon,100000000,104.0,5.1
+Where the Wild Things Are,100000000,101.0,6.7
+Epic,100000000,102.0,6.6
+The Tourist,100000000,103.0,6.0
+End of Days,100000000,121.0,5.8
+Blood Diamond,100000000,143.0,8.0
+The Wolf of Wall Street,100000000,180.0,8.2
+Batman Forever,100000000,121.0,5.4
+Starship Troopers,105000000,129.0,7.3
+Cloud Atlas,102000000,172.0,7.4
+Legend of the Guardians: The Owls of Ga'Hoole,80000000,97.0,6.9
+Catwoman,100000000,104.0,3.4
+Hercules,100000000,99.0,7.3
+Treasure Planet,140000000,95.0,7.2
+Land of the Lost,100000000,102.0,5.3
+The Expendables 3,90000000,127.0,6.1
+Point Break,105000000,114.0,7.3
+Son of the Mask,84000000,94.0,2.3
+In the Heart of the Sea,100000000,122.0,6.9
+The Adventures of Pluto Nash,100000000,95.0,3.9
+Green Zone,100000000,115.0,6.8
+The Peanuts Movie,99000000,88.0,7.0
+The Spanish Prisoner,10000000,110.0,7.2
+The Mummy Returns,98000000,130.0,6.4
+Gangs of New York,100000000,167.0,7.5
+The Flowers of War,94000000,145.0,7.5
+Surf's Up,85000000,85.0,6.7
+The Stepford Wives,90000000,93.0,5.4
+Black Hawk Down,92000000,144.0,7.7
+The Fifth Element,90000000,126.0,7.6
+Sex and the City 2,100000000,146.0,4.5
+The Road to El Dorado,95000000,89.0,6.9
+Ice Age: Continental Drift,95000000,88.0,6.5
+Cinderella,95000000,105.0,6.9
+The Lovely Bones,65000000,136.0,6.6
+Finding Nemo,94000000,100.0,8.2
+The Lord of the Rings: The Return of the King,94000000,201.0,9.0
+The Lord of the Rings: The Two Towers,79000000,179.0,8.8
+Seventh Son,95000000,102.0,5.5
+Lara Croft: Tomb Raider,115000000,100.0,5.8
+Transcendence,100000000,119.0,6.2
+Jurassic Park III,93000000,92.0,5.9
+Rise of the Planet of the Apes,93000000,105.0,7.6
+The Spiderwick Chronicles,90000000,95.0,6.5
+A Good Day to Die Hard,92000000,98.0,5.2
+The Alamo,145000000,137.0,6.1
+The Incredibles,92000000,115.0,8.0
+Cutthroat Island,98000000,119.0,5.7
+Percy Jackson & the Olympians: The Lightning Thief,95000000,118.0,6.8
+Men in Black,90000000,98.0,7.3
+Toy Story 2,90000000,92.0,7.9
+Unstoppable,100000000,98.0,6.8
+Rush Hour 2,90000000,90.0,6.7
+What Lies Beneath,100000000,130.0,6.6
+Cloudy with a Chance of Meatballs,100000000,90.0,6.9
+Ice Age: Dawn of the Dinosaurs,90000000,94.0,6.9
+The Secret Life of Walter Mitty,90000000,114.0,7.3
+Charlie's Angels,92000000,98.0,5.6
+The Departed,90000000,151.0,8.5
+Mulan,90000000,88.0,7.7
+Tropic Thunder,92000000,107.0,7.1
+The Girl with the Dragon Tattoo,90000000,158.0,7.8
+Die Hard: With a Vengeance,90000000,128.0,7.6
+Sherlock Holmes,90000000,128.0,7.6
+Ben-Hur,100000000,125.0,8.1
+Atlantis: The Lost Empire,120000000,95.0,6.9
+Valkyrie,75000000,121.0,7.1
+You Don't Mess with the Zohan,90000000,113.0,5.6
+Pixels,88000000,105.0,5.6
+A.I. Artificial Intelligence,100000000,146.0,7.2
+The Haunted Mansion,90000000,99.0,5.2
+Contact,90000000,150.0,7.5
+Hollow Man,95000000,112.0,5.9
+The Interpreter,80000000,128.0,6.4
+Percy Jackson: Sea of Monsters,90000000,106.0,5.7
+Lara Croft Tomb Raider: The Cradle of Life,95000000,117.0,5.5
+Now You See Me 2,90000000,129.0,6.4
+The Saint,68000000,116.0,6.2
+Spy Game,92000000,126.0,7.1
+Mission to Mars,90000000,114.0,5.7
+Rio,90000000,96.0,6.9
+Bicentennial Man,100000000,131.0,6.9
+Volcano,90000000,104.0,5.5
+The Devil's Own,90000000,107.0,6.2
+K-19: The Widowmaker,100000000,138.0,6.7
+Conan the Barbarian,20000000,129.0,6.9
+Cinderella Man,88000000,144.0,8.0
+The Nutcracker: The Untold Story,90000000,110.0,4.1
+Seabiscuit,87000000,141.0,7.3
+Twister,92000000,113.0,6.6
+Cast Away,90000000,143.0,7.8
+Happy Feet,100000000,108.0,6.4
+The Bourne Supremacy,75000000,108.0,7.7
+Air Force One,85000000,124.0,6.5
+Ocean's Eleven,85000000,116.0,7.7
+The Three Musketeers,75000000,110.0,5.7
+Hotel Transylvania,85000000,91.0,7.0
+Enchanted,85000000,107.0,7.1
+Safe House,85000000,115.0,6.7
+102 Dalmatians,85000000,100.0,4.9
+Tower Heist,75000000,104.0,6.2
+The Holiday,85000000,136.0,7.0
+Enemy of the State,90000000,132.0,7.3
+It's Complicated,85000000,121.0,6.5
+Ocean's Thirteen,85000000,122.0,6.9
+Open Season,85000000,83.0,6.1
+Divergent,85000000,139.0,6.6
+Enemy at the Gates,68000000,131.0,7.5
+The Rundown,85000000,104.0,6.7
+Last Action Hero,85000000,130.0,6.5
+The Fast and the Furious: Tokyo Drift,85000000,104.0,6.1
+Meet Joe Black,90000000,178.0,7.2
+Collateral Damage,85000000,108.0,5.5
+Mirror Mirror,85000000,106.0,5.6
+Scott Pilgrim vs. the World,60000000,112.0,7.5
+The Core,60000000,136.0,5.5
+Nutty Professor II: The Klumps,84000000,106.0,4.5
+Scooby-Doo,84000000,88.0,5.3
+Dredd,50000000,95.0,7.1
+Click,82500000,107.0,6.4
+Creepshow,8000000,120.0,6.8
+Cats & Dogs 2 : The Revenge of Kitty Galore,85000000,82.0,2.8
+Jumper,85000000,88.0,6.1
+Hellboy II: The Golden Army,85000000,120.0,7.0
+Zodiac,65000000,157.0,7.7
+Bruce Almighty,80000000,101.0,6.8
+The Expendables,80000000,103.0,6.4
+Mission: Impossible,80000000,110.0,7.4
+The Hunger Games,75000000,142.0,7.2
+The Hangover Part II,80000000,102.0,6.5
+Batman Returns,80000000,126.0,7.1
+Over the Hedge,80000000,83.0,6.7
+Lilo & Stitch,80000000,85.0,7.3
+Charlotte's Web,85000000,97.0,6.3
+Deep Impact,75000000,120.0,6.3
+RED 2,84000000,116.0,6.6
+The Longest Yard,82000000,113.0,6.4
+Alvin and the Chipmunks: Chipwrecked,75000000,87.0,4.4
+Grown Ups 2,80000000,100.0,5.4
+Get Smart,80000000,110.0,6.5
+Something's Gotta Give,80000000,128.0,6.7
+Shutter Island,80000000,138.0,8.2
+Four Christmases,80000000,88.0,5.7
+Robots,75000000,91.0,6.4
+Face/Off,80000000,138.0,7.3
+Bedtime Stories,80000000,99.0,6.0
+Road to Perdition,80000000,117.0,7.7
+Just Go with It,80000000,117.0,6.4
+Con Air,75000000,115.0,6.9
+Eagle Eye,80000000,118.0,6.6
+Cold Mountain,79000000,154.0,7.2
+The Book of Eli,80000000,118.0,6.8
+Flubber,80000000,93.0,5.3
+The Haunting,80000000,113.0,5.0
+Space Jam,80000000,88.0,6.5
+The Day the Earth Stood Still,80000000,104.0,5.5
+Conspiracy Theory,75000000,135.0,6.7
+Fury,68000000,135.0,7.6
+Six Days Seven Nights,70000000,98.0,5.9
+Yogi Bear,80000000,80.0,4.6
+Spirit: Stallion of the Cimarron,80000000,83.0,7.2
+Zookeeper,80000000,102.0,5.2
+Lost in Space,80000000,130.0,7.3
+The Manchurian Candidate,80000000,129.0,6.6
+Hotel Transylvania 2,80000000,89.0,6.6
+Fantasia 2000,80000000,74.0,7.1
+The Time Machine,80000000,96.0,6.0
+Mighty Joe Young,90000000,114.0,5.7
+Swordfish,102000000,99.0,6.5
+The Legend of Zorro,75000000,129.0,6.0
+What Dreams May Come,85000000,113.0,7.0
+Little Nicky,85000000,90.0,5.3
+The Brothers Grimm,88000000,118.0,5.9
+Mars Attacks!,70000000,106.0,6.4
+Surrogates,80000000,89.0,6.3
+Thirteen Days,80000000,145.0,7.3
+Walking With Dinosaurs,80000000,87.0,8.5
+Battlefield Earth,44000000,118.0,2.5
+Looney Tunes: Back in Action,80000000,90.0,5.8
+Nine,80000000,112.0,5.8
+Timeline,80000000,116.0,5.6
+The Postman,80000000,177.0,6.1
+Babe: Pig in the City,90000000,92.0,5.8
+The Last Witch Hunter,90000000,106.0,5.9
+Red Planet,80000000,106.0,5.7
+Arthur and the Invisibles,86000000,94.0,6.0
+A Sound of Thunder,80000000,110.0,4.2
+Pompeii,130000000,105.0,5.5
+Top Cat Begins,8000000,89.0,4.3
+A Beautiful Mind,60000000,135.0,8.2
+The Lion King,45000000,89.0,8.5
+Journey 2: The Mysterious Island,79000000,94.0,5.7
+Cloudy with a Chance of Meatballs 2,78000000,95.0,6.3
+Red Dragon,78000000,124.0,7.2
+Hidalgo,100000000,136.0,6.7
+Jack and Jill,79000000,91.0,3.3
+2 Fast 2 Furious,76000000,107.0,5.9
+The Little Prince,64000000,92.0,7.6
+The Invasion,80000000,99.0,5.9
+The Adventures of Rocky & Bullwinkle,76000000,88.0,4.3
+The Secret Life of Pets,75000000,87.0,6.5
+The League of Extraordinary Gentlemen,78000000,110.0,5.8
+Despicable Me 2,76000000,98.0,7.3
+Independence Day,75000000,145.0,7.0
+The Lost World: Jurassic Park,73000000,129.0,6.6
+Madagascar,75000000,86.0,6.9

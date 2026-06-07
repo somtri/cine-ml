@@ -1,0 +1,8 @@
+.idea/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+artifacts/*.joblib
+streamlit.*.log
+sample.ipynb
